@@ -1,4 +1,4 @@
-<h1>Clasificación de Vinos con Árboles de Decisión</h1>
+<h1>Clasificación de Vinos con Árboles de Decisión.</h1>
     
 <div class="section">
         <h2>Descripción del Proyecto</h2>
