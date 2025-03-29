@@ -1,4 +1,4 @@
-<h1>Documentation: Sexual Education Data Analysis</h1>
+<h1>Sexual Education Data Analysis</h1>
     
   <div class="section">
         <h2>Project Description</h2>
